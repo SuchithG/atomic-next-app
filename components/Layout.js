@@ -3,6 +3,7 @@ import Navbar from "../Molecules/Navbar";
 import TableOfContents from "../Molecules/TableOfContents";
 import BlogContainer from "../Organisms/BlogContainer";
 
+
 export default function Layout() {
     return (
         <div className={styles.layoutContainer}>
